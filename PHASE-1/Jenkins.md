@@ -1,7 +1,9 @@
 ## Installing Jenkins on Ubuntu
 
 
-```bash
+
+
+
 #!/bin/bash
 
 # Install OpenJDK 17 JRE Headless

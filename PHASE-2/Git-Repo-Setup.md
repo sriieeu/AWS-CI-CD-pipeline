@@ -48,3 +48,6 @@
    - When prompted for credentials during the push, enter your username (usually your email) and use your personal access token as the password.
 
 By following these steps, you'll be able to create a private Git repository, connect to it using Git Bash, and push your code changes securely using a personal access token for authentication.
+
+
+ok

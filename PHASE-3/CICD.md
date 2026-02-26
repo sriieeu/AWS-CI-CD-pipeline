@@ -45,9 +45,10 @@ After installing these plugins, you may need to configure them according to your
 
 ## Configure Above Plugins in Jenkins as per video
 
+
 ## Pipeline 
 
-```groovy
+
 
 pipeline {
     agent any
